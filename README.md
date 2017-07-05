@@ -2,7 +2,9 @@
 
 [![Dependency Status](https://david-dm.org/7kfpun/FinanceReactNative.svg)](http://www.richquant.com/product/RqMoTrader) [![devDependency Status](https://david-dm.org/7kfpun/FinanceReactNative/dev-status.svg)](http://www.richquant.com/product/RqMoTrader#info=devDependencies)
 
-RichQuant Trading App written in [React Native](https://github.com/facebook/react-native) (available both iOS and Android). Initially forking from [7kfpun/FinanceReactNative](https://github.com/7kfpun/FinanceReactNative). 
+RichQuant stock and futures trading App written in [React Native](https://github.com/facebook/react-native) (available both iOS and Android). 
+
+Initially forking from [7kfpun/FinanceReactNative](https://github.com/7kfpun/FinanceReactNative). 
 
 ## Demo
 
