@@ -1,15 +1,13 @@
-# FinanceReactNative
+# RqMoTrader
 
-[![Dependency Status](https://david-dm.org/7kfpun/FinanceReactNative.svg)](https://david-dm.org/7kfpun/FinanceReactNative) [![devDependency Status](https://david-dm.org/7kfpun/FinanceReactNative/dev-status.svg)](https://david-dm.org/7kfpun/FinanceReactNative#info=devDependencies)
+[![Dependency Status](https://david-dm.org/7kfpun/FinanceReactNative.svg)](http://www.richquant.com/product/RqMoTrader) [![devDependency Status](https://david-dm.org/7kfpun/FinanceReactNative/dev-status.svg)](http://www.richquant.com/product/RqMoTrader#info=devDependencies)
 
-iOS's Stocks App clone written in [React Native](https://github.com/facebook/react-native) for demo purpose (available both iOS and Android). Data is pulled from [Yahoo Finance](finance.yahoo.com).
+RichQuant Trading App written in [React Native](https://github.com/facebook/react-native) (available both iOS and Android). Initially forking from [7kfpun/FinanceReactNative](https://github.com/7kfpun/FinanceReactNative). 
 
 ## Demo
 
 [![Play Store Button](google-play.png "Google Play Button")](https://play.google.com/store/apps/details?id=com.kfpun.finance)
 [![Apk Download Button](apk-download.png "Apk Download Button")](https://github.com/7kfpun/FinanceReactNative/releases/download/v1.0.2/app-release.apk)
-
-* Rejected by Apple reviewer :smile:: "Your app is too similar to App**le** Stock app, which creates a misleading association with Apple products."
 
 ## App preview
 
@@ -62,7 +60,7 @@ iOS's Stocks App clone written in [React Native](https://github.com/facebook/rea
 
 #### Clone & install
 
-* Clone this repo `git clone git@github.com:7kfpun/FinanceReactNative.git`
+* Clone this repo `git clone git@github.com:richquant-dev/FinanceReactNative.git`
 * `cd FinanceReactNative`
 * run `npm install`
 
@@ -74,10 +72,6 @@ iOS's Stocks App clone written in [React Native](https://github.com/facebook/rea
 
 * Run `android avd` and start an emulator
 * Run `react-native run-android`
-
-## Related project
-
-* [FinanceMacOSReactNative](https://github.com/7kfpun/FinanceMacOSReactNative) - iOS's Stocks App clone written for MacOS with Touch Bar supported. Data is pulled from [Yahoo Finance](finance.yahoo.com).
 
 ## License
 
